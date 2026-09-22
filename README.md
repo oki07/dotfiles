@@ -41,6 +41,9 @@ Run the following commands in your terminal.
     - zsh-completions
     - fast-syntax-highlighting
     - enhancd
+- Set up Karabiner-Elements
+  - Swap caps lock and left control (caps lock only acts as control on the Topre keyboard)
+  - Tap left command for eisuu (English) and right command for kana (Japanese)
 - Setup Neovim
   - Change keymaps
   - Install plugins

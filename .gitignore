@@ -5,6 +5,7 @@
 !/setup.sh
 !/packages/git/config
 !/packages/ideavim/.ideavimrc
+!/packages/karabiner/.config/karabiner/karabiner.json
 !/packages/neovim/.config/nvim/**/*
 !/packages/vscode/config/keybindings.json
 !/packages/zsh/.zprofile
