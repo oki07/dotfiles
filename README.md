@@ -20,7 +20,6 @@ Run the following commands in your terminal.
   - Speed up initial key repeat
   - Enable function keys
   - Show scroll bars when scrolling
-  - Swap caps lock and control
 - Install tools with Homebrew
   - git
   - mise
